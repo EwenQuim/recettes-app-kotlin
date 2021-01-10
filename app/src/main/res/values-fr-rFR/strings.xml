@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Recettes</string>
+    <string name="tab_text_1">Recettes</string>
+    <string name="tab_text_2">Suggestion</string>
+    <string name="tab_text_3">Liste</string>
+</resources>
