@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Recipe</string>
     <string name="tab_text_1">Recipes</string>
-    <string name="tab_text_2">Suggestion</string>
+    <string name="tab_text_2">My week</string>
     <string name="tab_text_3">Shopping List</string>
+    <string name="search">search</string>
 </resources>

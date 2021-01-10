@@ -2,6 +2,7 @@
 <resources>
     <string name="app_name">Recettes</string>
     <string name="tab_text_1">Recettes</string>
-    <string name="tab_text_2">Suggestion</string>
-    <string name="tab_text_3">Liste</string>
+    <string name="tab_text_2">Semaine</string>
+    <string name="tab_text_3">Courses</string>
+    <string name="search">chercher</string>
 </resources>
