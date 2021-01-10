@@ -5,4 +5,5 @@
     <string name="tab_text_2">Semaine</string>
     <string name="tab_text_3">Courses</string>
     <string name="search">chercher</string>
+    <string name="enter_a_recipe">Cherchez une recette</string>
 </resources>
